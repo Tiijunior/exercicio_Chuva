@@ -747,10 +747,11 @@ hr{
 }
 
 .botao_sucesso{
+    position: absolute;
     width: 240px;
     height: 40px;
     margin-top: 30px;
-    margin-left: 411.08px;
+    left: 411.08px;
     background: linear-gradient(180deg, #FEB154 0%, #F1833E 100%);
     border: none;
     animation-timing-function: ease-out;
